@@ -35,3 +35,5 @@ Thumbs.db
 
 # Node modules (if ever added)
 node_modules/
+
+Kubernetes/secret.yml

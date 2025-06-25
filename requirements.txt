@@ -6,4 +6,5 @@ langchain-community
 openai
 python-dotenv
 faiss-cpu
+jinja2
 wikipedia
